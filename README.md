@@ -11,8 +11,7 @@
 
 
 ## <span style="color:#29A0F7">👋 About Me</span>
-I’m **Rickard Ötvös**, a dedicated **System Developer & IT Consultant** passionate about building clean, functional, and well-structured applications.  
-I work across the full stack — from modern **React** frontends to robust **Java** backends, combined with DevOps workflows. With experience from **A C Hilmersson Consulting**, **TMRW** and **Cambio**, 
+I’m **Rickard Ötvös**, a dedicated **System Developer & IT Consultant** passionate about building clean, functional, and well-structured applications. I work across the full stack — from modern **React** frontends to robust **Java** backends, combined with DevOps workflows. With experience from **A C Hilmersson Consulting**, **TMRW** and **Cambio**, 
 my focus is on robust Java development and continuously improving system architecture.
 
 This Github page is mainly for my hobby projects.
