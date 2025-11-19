@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://github.com/RickardOtv">
+    <img src="https://raw.githubusercontent.com/RickardOtv/Github-profile-Rickard-Otvos/refs/heads/main/Rickard%20O%CC%88tvo%CC%88s.png" alt="Rickard Ötvös" width="300"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=700&color=29A0F7&center=true&vCenter=true&width=600&lines=IT+Consultant;System+Developer;Full+Stack+Enthusiast;Cloud+%26+DevOps+Learner;Always+Building+%26+Improving" alt="Typing SVG" />
