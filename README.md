@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/RickardOtv">
-    <img src="https://raw.githubusercontent.com/RickardOtv/Github-profile-Rickard-Otvos/refs/heads/main/Rickard%20O%CC%88tvo%CC%88s.png" alt="Rickard Ötvös" width="300"/>
+    <img src="https://raw.githubusercontent.com/RickardOtv/Github-profile-Rickard-Otvos/refs/heads/main/Rickard%20O%CC%88tvo%CC%88s.png" alt="Rickard Ötvös" width="400"/>
   </a>
 </p>
 
