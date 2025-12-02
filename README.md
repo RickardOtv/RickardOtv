@@ -65,9 +65,9 @@ This Github page is mainly for my hobby projects.
 ## <span style="color:#29A0F7">📊 GitHub Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickardOtv&show_icons=true&theme=tokyonight&title_color=29A0F7&icon_color=29A0F7" height="165"/>
+  <img src="https://github-readme-stats-rickardotv.vercel.app/api?username=RickardOtv&show_icons=true&theme=tokyonight&title_color=29A0F7&icon_color=29A0F7" height="165"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- horizontal space -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickardOtv&layout=compact&theme=tokyonight&title_color=29A0F7" height="165"/>
+  <img src="https://github-readme-stats-rickardotv.vercel.app/api/top-langs/?username=RickardOtv&layout=compact&theme=tokyonight&title_color=29A0F7" height="165"/>
 </p>
 
 </br>
