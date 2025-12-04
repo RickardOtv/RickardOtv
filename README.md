@@ -75,7 +75,7 @@ This Github page is mainly for my hobby projects.
 ## <span style="color:#29A0F7">🔗 Connect with Me</span>
 
 - **LinkedIn:**  
-  https://www.linkedin.com/in/rickard-ötvös/
+  https://www.linkedin.com/in/rickard-ötvös
 
 - **Email:** <br/>
   <a href="mailto:rickardotvos@gmail.com" style="text-decoration:none; color:#29A0F7;">rickardotvos@gmail.com</a><br/>
