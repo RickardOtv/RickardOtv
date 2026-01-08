@@ -51,6 +51,7 @@ This Github page is mainly for my hobby projects.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/Cloud_Computing-29A0F7?style=for-the-badge&logo=cloudfoundry&logoColor=white" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" style="margin: 5px;"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" />
 
 <strong>Domain Knowledge</strong><br/>
 <img src="https://img.shields.io/badge/FHIR-0F9D58?style=for-the-badge&logo=hl7&logoColor=white" style="margin: 5px;"/>
