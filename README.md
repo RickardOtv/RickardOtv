@@ -41,6 +41,7 @@ This Github page is mainly for my hobby projects.
 <strong>Backend</strong><br/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" style="margin: 5px;"/>
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/REST_APIs-29A0F7?style=for-the-badge&logo=api&logoColor=white" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" style="margin: 5px;"/>
