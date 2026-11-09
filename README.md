@@ -67,21 +67,8 @@ This Github page is mainly for my hobby projects.
 ## <span style="color:#29A0F7">🚀 Projects</span>
 
 <p align="center">
-  <a href="https://sum-quest.rickardotvos.workers.dev"><img src="https://sum-quest.rickardotvos.workers.dev/icons/icon-192.png" width="110" alt="Sum Quest"/></a><br/>
-  <b>Sum Quest</b><br/>
-  A top-down action roguelite for practising mental math, built on learning research.<br/>
-  Crits, spells and upgrades are earned by solving arithmetic.<br/><br/>
-  <a href="https://sum-quest.rickardotvos.workers.dev"><img src="https://img.shields.io/badge/Play-29A0F7?style=for-the-badge" alt="Play Sum Quest"/></a>
-</p>
-
-</br>
-
-<p align="center">
-  <a href="https://meal-of-fortune.com"><img src="https://meal-of-fortune.com/android-chrome-512x512.png" width="110" alt="Meal of Fortune"/></a><br/>
-  <b>Meal of Fortune</b><br/>
-  Can't decide where to eat? Spin a wheel of nearby restaurants on a live map,<br/>
-  with filters for what's open.<br/><br/>
-  <a href="https://meal-of-fortune.com"><img src="https://img.shields.io/badge/Visit-29A0F7?style=for-the-badge" alt="Visit Meal of Fortune"/></a>
+  <a href="https://sum-quest.rickardotvos.workers.dev"><img src="cards/sum-quest.svg" width="380" alt="Sum Quest: play in your browser"/></a>
+  <a href="https://meal-of-fortune.com"><img src="cards/meal-of-fortune.svg" width="380" alt="Meal of Fortune: visit the site"/></a>
 </p>
 
 </br>
