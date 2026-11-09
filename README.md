@@ -64,6 +64,27 @@ This Github page is mainly for my hobby projects.
 
 </br>
 
+## <span style="color:#29A0F7">🚀 Projects</span>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://sum-quest.rickardotvos.workers.dev"><img src="https://sum-quest.rickardotvos.workers.dev/icons/icon-192.png" width="80" alt="Sum Quest"/></a><br/>
+      <b>Sum Quest</b><br/>
+      <sub>A top-down action roguelite for practising mental math, built on learning research. Crits, spells and upgrades are earned by solving arithmetic.</sub><br/><br/>
+      <a href="https://sum-quest.rickardotvos.workers.dev"><img src="https://img.shields.io/badge/Play-29A0F7?style=for-the-badge" alt="Play Sum Quest"/></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://meal-of-fortune.com"><img src="https://meal-of-fortune.com/android-chrome-512x512.png" width="80" alt="Meal of Fortune"/></a><br/>
+      <b>Meal of Fortune</b><br/>
+      <sub>Can't decide where to eat? Spin a wheel of nearby restaurants on a live map, with filters for what's open.</sub><br/><br/>
+      <a href="https://meal-of-fortune.com"><img src="https://img.shields.io/badge/Visit-29A0F7?style=for-the-badge" alt="Visit Meal of Fortune"/></a>
+    </td>
+  </tr>
+</table>
+
+</br>
+
 ## <span style="color:#29A0F7">📊 GitHub Stats</span>
 
 <p align="center">
