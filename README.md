@@ -67,7 +67,7 @@ This Github page is mainly for my hobby projects.
 ## <span style="color:#29A0F7">🚀 Projects</span>
 
 <p align="center">
-  <a href="https://sum-quest.rickardotvos.workers.dev"><img src="cards/sum-quest.svg" width="380" alt="Sum Quest: play in your browser"/></a>
+  <a href="https://sum-quest.rickardotvos.workers.dev"><img src="cards/sum-quest-phone.svg" width="380" alt="Sum Quest: play in your browser"/></a>
   <a href="https://meal-of-fortune.com"><img src="cards/meal-of-fortune.svg" width="380" alt="Meal of Fortune: visit the site"/></a>
 </p>
 
